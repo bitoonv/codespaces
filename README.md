@@ -37,7 +37,7 @@ This single command will initialize your Codespaces IDE.
 To use Codespaces IDE,
 
   * Open your browser.
-  * Visit your machine's IP with port 8000. (Ex. http://192.168.0.60:8080)
+  * Visit your machine's IP with port 8000. (Ex. http://localhost:8000)
   * You will be asked for your e-mail address. Enter it and you are good to go.
 
 ![Email](images/email.jpg)
